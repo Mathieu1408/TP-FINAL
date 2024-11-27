@@ -46,9 +46,9 @@ Copier également le contenu de ce fichier dans le `README.md` de votre repo en 
 Template
 
 ```
-> Groupe XXX
-> GitHub : https://github.com/esgi-na-sa/TP1
-> branch1 : Élève 1 / @eleve1
-> branch2 : Élève 2 / @eleve2
-> branch3 : Élève 3 / @eleve3
+> Groupe 8
+> GitHub : https://github.com/Mathieu1408/TP-FINAL.git
+> branch1 : branche1/ Edin DUGALIC 
+> branch2 : branche2/ Mathieu TRAN
+> branch3 : Élève 3 / Amaury ROPER
 ```
